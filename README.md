@@ -8,7 +8,7 @@ Soy un apasionado de la informática con ganas de aprender cada día más.
 - 🔨 **Herramientas**: Familiaridad con herramientas de administración de sistemas y seguridad informática
 ## Proyectos destacados
 ### [Red maN](https://github.com/alexxGB/RedmaN)
-- **Descripción**: Pagina web escrita a mano.
+- **Descripción**: Página web escrita a mano.
 - **Tecnologías utilizadas**: HTML, CSS.
 
 ### [Porfolio](https://github.com/alexxGB/Porfolio)
@@ -17,7 +17,7 @@ Soy un apasionado de la informática con ganas de aprender cada día más.
 
 
 ### [Practicas Python](https://github.com/alexxGB/PracticasPython)
-- **Descripción**: Practicas de python realizadas en clase.
+- **Descripción**: Prácticas de python realizadas en clase.
 - **Tecnologías utilizadas**: Python.
 
 
